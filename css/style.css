@@ -2,18 +2,18 @@
     background-color: #808080;
     color:#000000;
     text-shadow: #ffffff;
-    font-size: 14px;
+    font-size: 16px;
     font-family: sans-serif, "Times New Roman", Verdana;
 }
  
 #header {
     text-align: center;
-    font-size: 25px;
+    font-size: 28px;
 } 
 
 .list{
     color: #000000;
     font-stretch: expanded;
     font-size: 16px;
-    text-indent: 10px;
+    text-indent: 14px;
 }
