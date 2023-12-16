@@ -2,18 +2,29 @@ body{
     background-color: #808080;
     color:#000000;
     text-shadow: #ffffff;
-    font-size: 16px;
+    font-size: 24px;
     font-family: sans-serif, "Times New Roman", Verdana;
+    width: 800px;
+    margin: 0px auto;
 }
  
-#header {
+.header {
     text-align: center;
-    font-size: 28px;
+    font-size: 38px;
+    padding: 8px;
+    margin-bottom: 8px;
 } 
 
 .list{
     color: #000000;
     font-stretch: expanded;
-    font-size: 16px;
-    text-indent: 14px;
+    font-size: 24px;
+    text-indent: 1em;
+    padding: 10px;
+}
+
+.image{
+    width: 400px;
+    display: block;
+    margin: 16px auto;
 }
