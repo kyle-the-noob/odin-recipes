@@ -5,7 +5,10 @@ body{
     font-size: 24px;
     font-family: sans-serif, "Times New Roman", Verdana;
     width: 800px;
-    margin: 0px auto;
+    margin: 12px auto;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    padding: 10px;
 }
  
 .header {
@@ -19,8 +22,6 @@ body{
     color: #000000;
     font-stretch: expanded;
     font-size: 24px;
-    text-indent: 1em;
-    padding: 10px;
 }
 
 .image{
